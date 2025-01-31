@@ -5,7 +5,7 @@ using UnityEngine;
 public class MonScript : MonoBehaviour
 {
     public GameObject g;
-    // Start is called before the first frame update
+    // Start is called before the firs      t frame update
     void Start()
     {
         g.GetComponent<Transform>().Translate(new Vector3(1,0,0));
