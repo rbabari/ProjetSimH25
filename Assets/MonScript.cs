@@ -18,3 +18,5 @@ public class MonScript : MonoBehaviour
         g.GetComponent<Transform>().Translate(new Vector3(1, 0, 0));
     }
 }
+
+// encore une modification
